@@ -388,4 +388,4 @@ Rather than looking at sales as a single metric, this project breaks sales perfo
 s
 
 # Power BI
-* Power BI Dashboard open  who have Power BI Software Else I have Provided The Dashboard Screenshot png for Non Power Bi User.
+* Power BI Dashboard open  who have Power BI Software Else I have Provided The Dashboard Screenshot png for Non Power Bi User..
