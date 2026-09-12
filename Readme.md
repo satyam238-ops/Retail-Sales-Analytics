@@ -267,35 +267,35 @@ Retail-Sales-Analytics/
 
 ### Correlation Analysis
 
-![Correlation Analysis](Visualizations\Correlation_Heatmap_of_Numeric_Columns.png)
+![Correlation Analysis](Visualizations/Correlation_Heatmap_of_Numeric_Columns.png)
 
 ### Store Age vs Sales
 
-![Store Age vs Sales](Visualizations\Does_old_Store_Generates_Higher_Sales.png)
+![Store Age vs Sales](Visualizations/Does_old_Store_Generates_Higher_Sales.png)
 
 ### MRP vs Sales
 
-![MRP vs Sales](Visualizations\Does_High_MRP_Generates_Higher_Sales.png)
+![MRP vs Sales](Visualizations/Does_High_MRP_Generates_Higher_Sales.png)
 
 ### Sugar Content vs Sales
 
-![Sugar Content vs Sales](Visualizations\Sugar_Contents_VS_Sales.png)
+![Sugar Content vs Sales](Visualizations/Sugar_Contents_VS_Sales.png)
 
 ### Product Weight vs Sales
 
-![Product Weight vs Sales](Visualizations\Are_Weighted_Products_Generates_Higher_Sales.png)
+![Product Weight vs Sales](Visualizations/Are_Weighted_Products_Generates_Higher_Sales.png)
 
 ### Top 8 Products by Total Sales
 
-![Top 8 Products](Visualizations\Top_8_Products_.png)
+![Top 8 Products](Visualizations/Top_8_Products_.png)
 
 ### Store Performance by Store Size
 
-![Store Size Performance](Visualizations\Store_Performance_By_Store_Size.png)
+![Store Size Performance](Visualizations/Store_Performance_By_Store_Size.png)
 
 ### Sales by Store Type
 
-![Store Type Sales](Visualizations\Which_Store_Gets_the_Highest_Sales.png)
+![Store Type Sales](Visualizations/Which_Store_Gets_the_Highest_Sales.png)
 
 ---
 
